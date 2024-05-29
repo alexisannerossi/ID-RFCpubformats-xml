@@ -73,25 +73,25 @@
         <name>Changes to RFC 9280</name>
         <t><xref target="RFC9280"/> Section 4.4 is updated to reflect the additional responsibility for resolution of publication format implementation and tooling disagreements.</t>
         <t>The title of Section 4.4 of RFC 9280 is currently:</t>
-        <artwork><![CDATA[
-    "Resolution of Disagreements between Authors and the RPC"
-]]></artwork>
+        <blockquote>
+     Resolution of Disagreements between Authors and the RPC
+</blockquote>
         <t>This document replace that title with:</t>
-        <artwork><![CDATA[
-    "Resolution of Disagreements"
-]]></artwork>
+        <blockquote>
+     Resolution of Disagreements
+</blockquote>
         <t>The first paragraph of Section 4.4  of RFC 9280 is currently:</t>
-        <artwork><![CDATA[
-    "During the process of editorial preparation and publication, disagreements can arise between the authors of an RFC-to-be and the RPC. Where an existing policy clearly applies, typically such disagreements are handled in a straightforward manner through direct consultation between the authors and the RPC, sometimes in collaboration with stream-specific contacts."
-]]></artwork>
+        <blockquote>
+     During the process of editorial preparation and publication, disagreements can arise between the authors of an RFC-to-be and the RPC. Where an existing policy clearly applies, typically such disagreements are handled in a straightforward manner through direct consultation between the authors and the RPC, sometimes in collaboration with stream-specific contacts.
+</blockquote>
         <t>This document replaces that paragraph with:</t>
-        <artwork><![CDATA[
-    "Disagreements can arise when policies are implemented. Where an existing policy clearly applies, typically such disagreements are handled in a straightforward manner through direct consultation between the parties involved."
-]]></artwork>
+        <blockquote>
+     Disagreements can arise when policies are implemented. Where an existing policy clearly applies, typically such disagreements are handled in a straightforward manner through direct consultation between the parties involved.
+</blockquote>
         <t>An additional bullet point is added to Section 4.4 of RFC 9280 that states:</t>
-        <artwork><![CDATA[
-    "If there is conflict involving tools intended to implement policy, the tool implementors should consult with the RPC as the RPC is responsible for the publication of RFCs. If policy is unclear, the RPC should consult with the RSAB to achieve a resolution."
-]]></artwork>
+        <blockquote>
+     If there is conflict involving tools intended to implement policy, the tool implementors should consult with the RPC as the RPC is responsible for the publication of RFCs. If policy is unclear, the RPC should consult with the RSAB to achieve a resolution.
+</blockquote>
       </section>
     </section>
     <section anchor="design-requirements-vs-implementation-decisions">
